@@ -65,3 +65,7 @@ Experimenting with different hyperparameters.
 Comparing GRU with LSTM for performance analysis.
 
 Applying GRU to more complex datasets.
+
+License
+
+This project is licensed under the MIT License.
